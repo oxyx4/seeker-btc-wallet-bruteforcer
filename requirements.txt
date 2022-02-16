@@ -2,3 +2,5 @@ base58==1.0.0
 ecdsa==0.11
 colorama=0.4.4
 pynput=1.7.6
+pandas=1.4.1
+numpy==1.19.3
